@@ -1,5 +1,7 @@
 # Mango Disease Identification
 
+### [Project Description](https://www.hackster.io/aniketdhole991/mango-plant-disease-detection-a7ded3)
+
    Open [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sRTVwbX3lvU1826SCLnkPVzH1lwFhnYE?usp=sharing)
    
 ## Update: Added Frontend 
